@@ -18,5 +18,6 @@ do site de pesquisa **Google**  e **Uniasselvi**  ao usar _HTML_ e _CSS_ para cr
 - [x]  Uso semântico do HTML
 - [x]  Uso de variáveis globais no `:root``
 - [x]  Criar o menu de aplicativos
+- [x]  Histórico de pesquisa 
 - [x]  Evento para abrir/fechar o menu de aplicavos
 - [x]  Responsividade
